@@ -19,4 +19,5 @@ https://cdn.bc-pf.org/resources/math/geometry/Evan_Chen-Euclidean_geometry.pdf)
 [基礎數論講義from numbertheoryguy.com](http://s3.amazonaws.com/aops-cdn.artofproblemsolving.com/resources/articles/olympiad-number-theory.pdf)  
 [呂彥德進階數論講義](
 https://drive.google.com/file/d/1gh_PmyWuLDTSkvtqjiTIeKv36Q2mdDUD/view?usp=sharing)   
-[函方講義](https://cdn.artofproblemsolving.com/attachments/e/1/4edd5cbbb44a9f08d959399a9270448f5501f5.pdf)   
+[函方講義](https://cdn.artofproblemsolving.com/attachments/e/1/4edd5cbbb44a9f08d959399a9270448f5501f5.pdf)    
+[張置換幾何網站](https://permutation-chang.github.io/)    
