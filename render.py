@@ -12,7 +12,7 @@ secret_key = 'REMOVED'
 secure_string = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
 app = Flask(__name__)
 Markdown(app)
-openai.api_key = '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'
+openai.api_key = 'REMOVED'
 temp_prompt = """
 """
 temp_text = "hows your day?"
